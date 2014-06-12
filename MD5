@@ -1,8 +1,8 @@
-c8690f46a72c0a8a8e11cb98398285da *DESCRIPTION
+a1f0d2870b398e7dba205e72b3d56016 *DESCRIPTION
 42943da8aa7bce8cc51ccedebd56e9e6 *NAMESPACE
 67a0a6d8fa94d2651506a08a1e87b591 *R/text.R
 fe51f55c6921429730bfeca5b2525ffe *R/zzz.R
-d9152df03e4871994e9aa2921dd23a85 *inst/java/text.jar
+9608ac230e2b312e579034682c294165 *inst/java/text.jar
 4f479ab3f2816625ab1f394488c8c3e4 *man/DeducerText-package.Rd
 cf1022bfa0b7c97a69cd2ebfc1636e6e *man/make.color.scale.Rd
 aa16f54253b65410cf3a48dbdfcb2c0f *man/term.freq.Rd
